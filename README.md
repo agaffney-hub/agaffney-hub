@@ -20,6 +20,6 @@ End-to-end analytics pipeline supporting the SolarSPELL digital education initia
 🏡 **[Airbnb Market Insights & Pricing Strategy](https://github.com/agaffney-hub/airbnb-data-insights)**  
 Exploratory data analysis of Airbnb listings revealing trends in pricing, demand hotspots, and best characteristics of 5 star listings.
 
-🏈 **[NFL Injury Analysis](https://github.com/agaffney-hub/nfl-offense-analysis)**  
+🏈 **[NFL Injury Analysis](https://github.com/agaffney-hub/final-capstone)**  
 An in-depth exploration of NFL injury analysis, injury trends, and patterns of injuries on fields across the 2017 season using Python and pandas.
 
