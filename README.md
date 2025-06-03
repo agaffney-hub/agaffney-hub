@@ -14,7 +14,7 @@ Currently interning at the **SolarSPELL Initiative**, I collaborate on data-driv
 
 ### 📌 Featured Projects
 
-🏡 **[Airbnb Market Insights & Pricing Strategy](https://github.com/agaffney-hub/airbnb-data-insights)**  
+🏡 **[Airbnb Market Insights & Pricing Strategy](https://github.com/agaffney-hub/airbnb-listing-insights)**  
 Exploratory data analysis of Airbnb listings revealing trends in pricing, demand hotspots, and best characteristics of 5 star listings.
 
 🏈 **[NFL Injury Analysis](https://github.com/agaffney-hub/final-capstone)**  
