@@ -14,9 +14,6 @@ Currently interning at the **SolarSPELL Initiative**, I collaborate on data-driv
 
 ### 📌 Featured Projects
 
-🌍 **[SolarSPELL Global Deployment Dashboard](https://github.com/agaffney-hub/solarspell-data-project)**  
-End-to-end analytics pipeline supporting the SolarSPELL digital education initiative in underserved regions with visual insights and global impact.
-
 🏡 **[Airbnb Market Insights & Pricing Strategy](https://github.com/agaffney-hub/airbnb-data-insights)**  
 Exploratory data analysis of Airbnb listings revealing trends in pricing, demand hotspots, and best characteristics of 5 star listings.
 
