@@ -2,7 +2,8 @@
 
 I'm a **Business Data Analyst** with a passion for turning complex data into clear, actionable insights. With a background in **business data analytics** and experience in **data visualization, machine learning, and ETL processes**, I enjoy bridging the gap between technical solutions and strategic decisions.
 
-Currently interning at the **SolarSPELL Initiative**, I collaborate on data-driven projects that support global education efforts.
+Currently working as a **Junior Data Analyst** in the financial services industry, building enterprise Tableau dashboards and writing production SQL.
+Previously interned at the **SolarSPELL Initiative**, where I collaborated on data-driven projects that support global education efforts.
 
 📊 Tools I work with: Python · SQL · Tableau · Power BI · Excel · TensorFlow · PyTorch  
 🧠 Interests: Data storytelling · Impact-driven analytics · Continuous learning  
