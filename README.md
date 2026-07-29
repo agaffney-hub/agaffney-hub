@@ -1,4 +1,4 @@
-### 👋 Hi there! I'm Amy Gaffney
+### 👋 Hi there!
 
 I'm a **Business Data Analyst** with a passion for turning complex data into clear, actionable insights. With a background in **business data analytics** and experience in **data visualization, machine learning, and ETL processes**, I enjoy bridging the gap between technical solutions and strategic decisions.
 
