@@ -21,42 +21,72 @@ Data Visualization · Spatial Analysis · Machine Learning · Data Storytelling 
 
 ## Selected Projects
 
+<div>
+<img src="images/busStop_Analysis.png" width="480" height="370" align="left">
+
 ### San Diego Transit Stop Accessibility
 
 **GIS · Spatial Analysis · Data Visualization**
 
+Analyzed transit stop accessibility across San Diego County by combining transit data with physical and pedestrian accessibility features. The project uses spatial analysis to identify potential barriers to transit access and communicate geographic patterns through interactive visualization.
+
 [Repository](https://github.com/agaffney-hub/SanDiegoBusStopFeatures) · [Interactive Project](https://agaffney-hub.github.io/SanDiegoBusStopFeatures/)
 
-Analyzed transit stop accessibility across San Diego County by combining transit data with physical and pedestrian accessibility features. The project uses spatial analysis to identify potential barriers to transit access and communicate geographic patterns through interactive visualization.
+<br clear="all">
+</div>
+
+<div>
+<img src="images/bikeRisk_Analysis.png" width="480" height="370" align="left">
 
 ### Mapping San Diego Bicycle Risk
 
 **GIS · Spatial Analysis · Public Safety**
 
-[Repository](https://github.com/agaffney-hub/MappingSanDiegoBicycleRisk) · [Interactive Project](https://agaffney-hub.github.io/MappingSanDiegoBicycleRisk/)
-
 Analyzed bicycle collision patterns across San Diego County using collision records, bicycle infrastructure, weather, and behavioral factors. The project combines multiple spatial datasets to examine geographic patterns in bicycle safety and infrastructure risk.
 
+[Repository](https://github.com/agaffney-hub/MappingSanDiegoBicycleRisk) · [Interactive Project](https://agaffney-hub.github.io/MappingSanDiegoBicycleRisk/)
+
+<br clear="all">
+</div>
+
+<div>
+<img src="images/streetlight_Analysis.png" width="480" height="370" align="left">
+  
 ### Street Lighting & Crime in San Diego County
 
 **Spatial Analysis · Tableau · Data Visualization**
 
+Explored the relationship between street lighting and crime across San Diego County using spatial data analysis and Tableau visualizations. The project focuses on identifying geographic patterns and communicating findings through interactive data visualization.
+
 [Project Website](https://sfalcon3996.wixsite.com/bda594-groupsaid)
 
-Explored the relationship between street lighting and crime across San Diego County using spatial data analysis and Tableau visualizations. The project focuses on identifying geographic patterns and communicating findings through interactive data visualization.
+<br clear="all">
+</div>
+
+<div>
+<img src="images/airbnb_analysis.png" width="480" height="370" align="left">
 
 ### Airbnb Market Insights & Pricing Strategy
 
 **Exploratory Data Analysis · Python · Pandas**
 
+Conducted exploratory analysis of Airbnb listings to examine pricing trends, geographic demand patterns, and characteristics associated with highly rated properties.
+
 [Repository](https://github.com/agaffney-hub/airbnb-listing-insights)
 
-Conducted exploratory analysis of Airbnb listings to examine pricing trends, geographic demand patterns, and characteristics associated with highly rated properties.
+<br clear="all">
+</div>
+
+<div>
+<img src="images/nfl_analysis.png" width="480" height="370" align="left">
 
 ### NFL Injury Analysis
 
 **Data Analysis · Python · Pandas**
 
+Analyzed NFL injury data from the 2017 season to identify injury trends and patterns across players, positions, and game conditions.
+
 [Repository](https://github.com/agaffney-hub/final-capstone)
 
-Analyzed NFL injury data from the 2017 season to identify injury trends and patterns across players, positions, and game conditions.
+<br clear="all">
+</div>
